@@ -1,0 +1,13 @@
+{
+    "name": "y-webrtc-signaling",
+    "version": "1.0.0",
+    "description": "WebRTC provider for Yjs",
+    "main": "./index.js",
+    "sideEffects": false,
+    "type": "module",
+    "license": "MIT",
+    "dependencies": {
+        "lib0": "^0.2.42",
+        "ws": "^8.14.2"
+    }
+}
